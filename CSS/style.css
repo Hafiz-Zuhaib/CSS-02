@@ -1,0 +1,112 @@
+*{
+     margin: 0;
+}
+
+body{
+    background-color: beige;
+    color: black;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+header{
+    background-color: darkslategray;
+    text-align: center;
+    padding: 7px;
+}
+
+footer{
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+    padding: 7px 0;
+}
+
+h1{
+    /* border-top: 2px solid brown;
+    border-right: 2px solid brown;
+    border-bottom: 2px solid brown;
+    border-left: 2px solid brown; */
+    /* border: 2px solid darkred;
+    border-radius: 7px;
+    text-align: center; */
+    margin-top: 100px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+
+div{
+    border: 2px solid rosybrown;
+    height: 50px;
+}
+
+.div1{
+    border-color: red;
+    outline: 10px solid aqua;
+    outline-offset: 10px;
+    margin: 30px auto 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    width: 70%;
+}
+
+.div2{
+    border-color: green;
+    margin: 50px auto 50px;
+    width: 80%;
+    
+}
+
+.div3{
+    border-color: blue;
+    margin: 20px auto;
+    width: 90%;
+}
+
+p{
+    /* text-align: center; */
+    /* text-align: right; */
+    /* text-align: left; */
+    text-align: justify;
+    text-align-last: center;
+    /* text-transform: lowercase; */
+    /* text-transform: capitalize; */
+    line-height: 30px;
+    word-spacing: 10px;
+    text-indent: 150px;
+
+
+
+}
+
+#email{
+    letter-spacing: 2spx;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
